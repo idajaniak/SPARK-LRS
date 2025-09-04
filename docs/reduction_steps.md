@@ -1,6 +1,6 @@
 SPARK-LRS was created to reduce raw science files from the Low Resolution Spectrograph on the 2.4 m Thai National Telescope. It was designed to meet SPEARNET’s need for a dual-slit data reduction pipeline and was also adapted for single-target long-slit observations.
 
-This documentation describes the functionality of the pipeline and explains each user-accessible function in detail. If you are looking for a quick tutorial or a step-by-step guide to using the pipeline, please see [INSERT].
+This documentation describes the functionality of the pipeline and explains each user-accessible function in detail. If you are looking for a quick tutorial, please see section 4.
 
 Scroll to the bottom of this file for a quick data reduction tutorial.
 
