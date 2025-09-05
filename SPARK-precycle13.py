@@ -26,7 +26,7 @@ from astropy.time import Time
 # In[ ]:
 
 
-class DataLoading:
+class SPARK_LRS:
     def __init__(self, data_path, slit_size):
         self.data_path = data_path
         self.slit_size = slit_size
