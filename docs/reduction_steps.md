@@ -15,6 +15,7 @@ SPARK-LRS is designed to run in an automated way. The user provides the path to 
 To begin, initialize the pipeline by calling the class with two arguments:
 
 ```python
+from spark_lrs import SPARK_LRS
 session_1 = SPARK_LRS("your_path_to_folder", slit_size)
 ```
 "your_path_to_folder" should contain the path to your folder containing ALL raw data. This is where the function will set its working environment and create folders where it will output files. 
