@@ -7,7 +7,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='spark-lrs',        
+    name='spark_lrs',        
     version='0.1.0',             
     author='Ida A. Janiak',
     author_email='ida.janiak@manchester.ac.uk',
