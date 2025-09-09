@@ -29,19 +29,21 @@ pip install git+https://github.com/idajaniak/SPARK-LRS.git
 into your terminal.
 
 ### Dependencies (automatically installed with pip)
-- numpy
-- astropy
-- matplotlib
-- ccdproc
-- scipy
-- scikit-image
-- astroscrappy
-- reproject
-- scikit-learn
-- pandas
-
+```
+numpy
+astropy
+matplotlib
+ccdproc
+scipy
+scikit-image
+astroscrappy
+reproject
+scikit-learn
+pandas
+```
 
 ### Features to add:
+- citation method
 - a worked through example of data reduction in Jupyter Notebook
 - a PyPI installation
 - an ASCL link
