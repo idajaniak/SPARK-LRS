@@ -22,10 +22,10 @@ SPARK-LRS is modular and user-friendly, allowing any level of user intervention 
 For explanation behind commands and data reduction please see: [reduction with SPARK-LRS  step by step](docs/reduction_steps.md)
 
 ## Installation
-To install the pipeline directly from github input
-      
+To install the pipeline directly from github input:
+```
 pip install git+https://github.com/idajaniak/SPARK-LRS.git
-      
+```
 into your terminal.
 
 ### Dependencies (automatically installed with pip)
