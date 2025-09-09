@@ -45,4 +45,4 @@ into your terminal.
 - a worked through example of data reduction in Jupyter Notebook
 - a PyPI installation
 - an ASCL link
-
+- license
